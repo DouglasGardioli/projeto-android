@@ -94,9 +94,10 @@ article {
     padding: 0px;
 }
 article > h1 {
-    font: bold normal 2em var(--font2);
+    font: normal 2em var(--font2);
     padding: 20px 15px 15px 15px;
     color: #226d44;
+    hyphens: auto;
 }
 article > p {
     text-align: justify;
