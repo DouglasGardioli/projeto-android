@@ -94,7 +94,7 @@ article {
     padding: 0px;
 }
 article > h1 {
-    font: normal 2em var(--font2);
+    font: normal 5vh var(--font2);
     padding: 20px 15px 15px 15px;
     color: #226d44;
     hyphens: auto;
@@ -109,7 +109,7 @@ div {
     text-align: center;
 }
 .titledroid {
-    font: bold normal 1.5em var(--font2);
+    font: bold normal 3vh var(--font2);
     padding: 3px 20px 3px 20px;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     color: #226d44;
